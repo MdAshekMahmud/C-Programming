@@ -1,0 +1,1 @@
+scanf("%f", Books[i].price);
