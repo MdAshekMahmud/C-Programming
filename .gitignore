@@ -1,0 +1,56 @@
+# Compiled C files
+
+*.exe
+*.out
+*.o
+*.obj
+
+# Debug files
+
+*.dSYM/find . -type d -name ".git"
+*.pdb
+*.ilk
+
+# Visual Studio Code
+
+.vscode/
+
+# Code::Blocks
+
+*.depend
+*.layout
+
+# Dev-C++
+
+*.bak
+
+# Temporary files
+
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Operating system files
+
+.DS_Store
+Thumbs.db
+
+# Build directories
+
+build/
+bin/
+obj/
+
+# CMake
+
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+install_manifest.txt
+compile_commands.json
+
+# Logs
+
+*.log
